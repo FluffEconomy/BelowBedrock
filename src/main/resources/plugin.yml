@@ -1,0 +1,6 @@
+name: BelowBedrock
+version: ${project.version}
+main: me.lojosho.belowbedrock.BelowBedrock
+api-version: 1.16
+authors: [ lojosho ]
+description: teleports players if below bedrock
